@@ -1,0 +1,15 @@
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Data.deps.json
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Data.dll
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Data.pdb
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Core.dll
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Core.pdb
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.csprojAssemblyReference.cache
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.AssemblyInfoInputs.cache
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.AssemblyInfo.cs
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.csproj.CopyComplete
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.dll
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.pdb
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Data.runtimeconfig.json
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netcoreapp3.1\MusicMarket.Data.runtimeconfig.dev.json
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.genruntimeconfig.cache
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netcoreapp3.1\MusicMarket.Data.csproj.CoreCompileInputs.cache

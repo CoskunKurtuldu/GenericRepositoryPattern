@@ -1,0 +1,7 @@
+D:\RepositoryPattern\yeni\MusicMarket.Services\bin\Debug\netstandard2.0\MusicMarket.Services.deps.json
+D:\RepositoryPattern\yeni\MusicMarket.Services\bin\Debug\netstandard2.0\MusicMarket.Services.dll
+D:\RepositoryPattern\yeni\MusicMarket.Services\bin\Debug\netstandard2.0\MusicMarket.Services.pdb
+D:\RepositoryPattern\yeni\MusicMarket.Services\obj\Debug\netstandard2.0\MusicMarket.Services.AssemblyInfoInputs.cache
+D:\RepositoryPattern\yeni\MusicMarket.Services\obj\Debug\netstandard2.0\MusicMarket.Services.AssemblyInfo.cs
+D:\RepositoryPattern\yeni\MusicMarket.Services\obj\Debug\netstandard2.0\MusicMarket.Services.dll
+D:\RepositoryPattern\yeni\MusicMarket.Services\obj\Debug\netstandard2.0\MusicMarket.Services.pdb

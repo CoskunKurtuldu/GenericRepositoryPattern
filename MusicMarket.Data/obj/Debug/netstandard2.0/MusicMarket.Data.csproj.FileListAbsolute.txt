@@ -1,0 +1,5 @@
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netstandard2.0\MusicMarket.Data.deps.json
+D:\RepositoryPattern\yeni\MusicMarket.Data\bin\Debug\netstandard2.0\MusicMarket.Data.dll
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netstandard2.0\MusicMarket.Data.csprojAssemblyReference.cache
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netstandard2.0\MusicMarket.Data.AssemblyInfoInputs.cache
+D:\RepositoryPattern\yeni\MusicMarket.Data\obj\Debug\netstandard2.0\MusicMarket.Data.AssemblyInfo.cs

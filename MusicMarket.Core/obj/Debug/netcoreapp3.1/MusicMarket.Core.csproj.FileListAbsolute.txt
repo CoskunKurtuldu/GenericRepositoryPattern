@@ -1,0 +1,9 @@
+D:\RepositoryPattern\yeni\MusicMarket.Core\bin\Debug\netcoreapp3.1\MusicMarket.Core.deps.json
+D:\RepositoryPattern\yeni\MusicMarket.Core\bin\Debug\netcoreapp3.1\MusicMarket.Core.dll
+D:\RepositoryPattern\yeni\MusicMarket.Core\bin\Debug\netcoreapp3.1\MusicMarket.Core.pdb
+D:\RepositoryPattern\yeni\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.AssemblyInfoInputs.cache
+D:\RepositoryPattern\yeni\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.AssemblyInfo.cs
+D:\RepositoryPattern\yeni\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.dll
+D:\RepositoryPattern\yeni\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.pdb
+D:\RepositoryPattern\yeni\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.csprojAssemblyReference.cache
+D:\RepositoryPattern\yeni\MusicMarket.Core\obj\Debug\netcoreapp3.1\MusicMarket.Core.csproj.CoreCompileInputs.cache

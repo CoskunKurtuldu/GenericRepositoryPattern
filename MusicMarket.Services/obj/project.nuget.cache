@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QSfwuFFINed/X6DLOTKaleeH3VLMyOEcUdArJQ6DfXwrVACYnvvZbC56JOm3nIInlOAzEQRaqiS+TwpclCsDOQ==",
+  "success": true,
+  "projectFilePath": "D:\\RepositoryPattern\\yeni\\MusicMarket.Services\\MusicMarket.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coskun\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
