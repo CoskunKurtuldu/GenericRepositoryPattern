@@ -30,7 +30,8 @@ namespace MusicMarket.Data.Repositories
 
         private MusicMarketDbContext MusicMarketDbContext
         {
-            get { return Context as MusicMarketDbContext; }
+            //get { return Context as MusicMarketDbContext; }
+            get { return MusicMarketDbContext as MusicMarketDbContext;}
         }
     }
 }
